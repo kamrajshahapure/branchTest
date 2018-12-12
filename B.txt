@@ -1,1 +1,2 @@
 First line in file B by Dev1
+2nd line by Dev A
