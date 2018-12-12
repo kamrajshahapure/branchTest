@@ -1,2 +1,1 @@
-First Line in file A by Dev1
-2nd line by Dev A
+changed A in master
